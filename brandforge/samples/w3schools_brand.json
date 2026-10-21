@@ -1,0 +1,462 @@
+{
+  "source_url": "https://www.w3schools.com",
+  "page_title": "W3Schools Online Web Tutorials",
+  "logo_url": "https://www.w3schools.com/signup/lynxlogo.svg",
+  "colors": {
+    "text_colors": [
+      {
+        "value": "#fff",
+        "count": 444
+      },
+      {
+        "value": "#ffffff",
+        "count": 212
+      },
+      {
+        "value": "#ddd",
+        "count": 175
+      },
+      {
+        "value": "#000",
+        "count": 161
+      },
+      {
+        "value": "#04aa6d",
+        "count": 143
+      },
+      {
+        "value": "#94a3b8",
+        "count": 130
+      },
+      {
+        "value": "#fff4a3",
+        "count": 85
+      },
+      {
+        "value": "#000000",
+        "count": 80
+      }
+    ],
+    "background_colors": [
+      {
+        "value": "#38444d",
+        "count": 198
+      },
+      {
+        "value": "#04aa6d",
+        "count": 145
+      },
+      {
+        "value": "#1d2a35",
+        "count": 137
+      },
+      {
+        "value": "#ffffff",
+        "count": 98
+      },
+      {
+        "value": "#fff",
+        "count": 92
+      },
+      {
+        "value": "#282a35",
+        "count": 91
+      },
+      {
+        "value": "#f1f1f1",
+        "count": 91
+      },
+      {
+        "value": "rgb(13,23,33)",
+        "count": 80
+      }
+    ],
+    "primary_color_guess": "#fff",
+    "primary_background_guess": "#38444d"
+  },
+  "typography": {
+    "font_families": [
+      {
+        "value": "Source Sans Pro",
+        "count": 125
+      },
+      {
+        "value": "Source Sans Pro Topnav",
+        "count": 76
+      },
+      {
+        "value": "Segoe UI",
+        "count": 11
+      },
+      {
+        "value": "monospace",
+        "count": 5
+      },
+      {
+        "value": "Consolas",
+        "count": 5
+      }
+    ],
+    "font_sizes": [
+      {
+        "value": "14px",
+        "count": 121
+      },
+      {
+        "value": "16px",
+        "count": 70
+      },
+      {
+        "value": "30px",
+        "count": 50
+      },
+      {
+        "value": "12px",
+        "count": 44
+      },
+      {
+        "value": "18px",
+        "count": 42
+      },
+      {
+        "value": "15px",
+        "count": 36
+      },
+      {
+        "value": "13px",
+        "count": 20
+      },
+      {
+        "value": "0.95rem",
+        "count": 20
+      }
+    ],
+    "font_weights": [
+      {
+        "value": "400",
+        "count": 103
+      },
+      {
+        "value": "500",
+        "count": 94
+      },
+      {
+        "value": "600",
+        "count": 70
+      },
+      {
+        "value": "700",
+        "count": 56
+      },
+      {
+        "value": "normal",
+        "count": 33
+      }
+    ]
+  },
+  "spacing": {
+    "padding": {
+      "padding-bottom": [
+        {
+          "value": "40px",
+          "count": 11
+        },
+        {
+          "value": "4px",
+          "count": 10
+        },
+        {
+          "value": "10px",
+          "count": 7
+        }
+      ],
+      "padding": [
+        {
+          "value": "0",
+          "count": 63
+        },
+        {
+          "value": "8px",
+          "count": 58
+        },
+        {
+          "value": "24px",
+          "count": 52
+        }
+      ],
+      "padding-top": [
+        {
+          "value": "12px",
+          "count": 11
+        },
+        {
+          "value": "4px",
+          "count": 10
+        },
+        {
+          "value": "5px",
+          "count": 6
+        }
+      ],
+      "padding-left": [
+        {
+          "value": "6px",
+          "count": 10
+        },
+        {
+          "value": "16px",
+          "count": 6
+        },
+        {
+          "value": "0",
+          "count": 3
+        }
+      ],
+      "padding-right": [
+        {
+          "value": "32px",
+          "count": 30
+        },
+        {
+          "value": "0",
+          "count": 4
+        },
+        {
+          "value": "8px",
+          "count": 3
+        }
+      ]
+    },
+    "margin": {
+      "margin-top": [
+        {
+          "value": "0px",
+          "count": 51
+        },
+        {
+          "value": "16px",
+          "count": 18
+        },
+        {
+          "value": "25px",
+          "count": 14
+        }
+      ],
+      "margin": [
+        {
+          "value": "0",
+          "count": 47
+        },
+        {
+          "value": "0 auto",
+          "count": 23
+        },
+        {
+          "value": "auto",
+          "count": 19
+        }
+      ],
+      "margin-bottom": [
+        {
+          "value": "16px",
+          "count": 33
+        },
+        {
+          "value": "10px",
+          "count": 23
+        },
+        {
+          "value": "8px",
+          "count": 22
+        }
+      ],
+      "margin-left": [
+        {
+          "value": "auto",
+          "count": 7
+        },
+        {
+          "value": "0",
+          "count": 4
+        },
+        {
+          "value": "-13px",
+          "count": 4
+        }
+      ],
+      "margin-right": [
+        {
+          "value": "15px",
+          "count": 11
+        },
+        {
+          "value": "auto",
+          "count": 6
+        },
+        {
+          "value": "3px",
+          "count": 5
+        }
+      ]
+    }
+  },
+  "borders": {
+    "border-color": [
+      {
+        "value": "#04aa6d",
+        "count": 28
+      },
+      {
+        "value": "#38444d",
+        "count": 18
+      },
+      {
+        "value": "#38444d !important",
+        "count": 15
+      }
+    ],
+    "border": [
+      {
+        "value": "none",
+        "count": 75
+      },
+      {
+        "value": "1px solid #04AA6D",
+        "count": 22
+      },
+      {
+        "value": "none !important",
+        "count": 21
+      }
+    ],
+    "border-right": [
+      {
+        "value": "none",
+        "count": 1
+      },
+      {
+        "value": "1px solid #04AA6D",
+        "count": 1
+      },
+      {
+        "value": "1px solid #282A35",
+        "count": 1
+      }
+    ],
+    "border-left": [
+      {
+        "value": "none",
+        "count": 4
+      },
+      {
+        "value": "2px solid #04AA6D !important",
+        "count": 4
+      },
+      {
+        "value": "2px solid #04AA6D!important",
+        "count": 4
+      }
+    ],
+    "border-radius": [
+      {
+        "value": "5px",
+        "count": 64
+      },
+      {
+        "value": "50%",
+        "count": 46
+      },
+      {
+        "value": "8px",
+        "count": 38
+      }
+    ],
+    "border-bottom": [
+      {
+        "value": "none",
+        "count": 6
+      },
+      {
+        "value": "1px solid #ddd",
+        "count": 4
+      },
+      {
+        "value": "1px solid rgb(67, 68, 74)",
+        "count": 2
+      }
+    ],
+    "border-width": [
+      {
+        "value": "0 8px 8px 8px",
+        "count": 5
+      },
+      {
+        "value": "0 9px 9px 9px",
+        "count": 5
+      },
+      {
+        "value": "0",
+        "count": 2
+      }
+    ],
+    "border-style": [
+      {
+        "value": "solid",
+        "count": 11
+      },
+      {
+        "value": "none",
+        "count": 6
+      }
+    ],
+    "border-top": [
+      {
+        "value": "1px solid #38444d",
+        "count": 2
+      },
+      {
+        "value": "1px solid #282A35 !important",
+        "count": 1
+      },
+      {
+        "value": "1px solid rgb(13, 23, 33) !important",
+        "count": 1
+      }
+    ]
+  },
+  "text_samples": {
+    "h1": [
+      "Tutorials",
+      "Tutorials",
+      "References",
+      "Exercises",
+      "Get Certified"
+    ],
+    "h2": [
+      "W3SCHOOLS TUTORIALS:",
+      "W3SCHOOLS REFERENCES:",
+      "Select another topic:"
+    ],
+    "h3": [
+      "HTML Example:",
+      "CSS Example:",
+      "JavaScript Example:",
+      "Python Example:",
+      "SQL Example:"
+    ],
+    "p": [
+      "Learn web development, programming, data science, and more.",
+      "Tag reference",
+      "Reference",
+      "Reference",
+      "Keyword reference"
+    ]
+  },
+  "meta": {
+    "num_css_rules_parsed": 3779,
+    "num_inline_styles_parsed": 348,
+    "stylesheets_found": 6,
+    "stylesheets_fetched": 6,
+    "css_variables_found": 2
+  }
+}

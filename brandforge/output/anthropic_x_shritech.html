@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI research and products that put safety at the frontier | Shri Tech Partners</title>
+
+<style>
+:root {
+  --primary: #00aeef;
+  --on-primary: #111111;
+  --deep: #091d25;
+  --on-deep: #ffffff;
+  --hero-accent: #00aeef;
+  --on-hero-accent: #111111;
+  --paper: #f5fafc;
+  --paper-2: #e7f4f9;
+  --ink: #0d232b;
+  --muted: #617075;
+  --border: #c9e3ed;
+  --link: #00749f;
+  --soft: #e0f5fd;
+  --accent: #00aeef;
+  --on-accent: #111111;
+  --radius: 10px;
+  --pad: 4.75rem;
+  --measure: 62ch;
+  --font-heading: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-body: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font-family: var(--font-body); font-size: 1.0625rem; line-height: 1.65;
+  -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;
+}
+.wrap { width: min(100% - 2.5rem, 68rem); margin-inline: auto; }
+
+h1, h2 { font-family: var(--font-heading); font-weight: 700; letter-spacing: -0.02em; line-height: 1.12; margin: 0; text-wrap: balance; }
+h1 { font-size: clamp(2.3rem, 5.4vw + 0.6rem, 4.4rem); }
+h2 { font-size: clamp(1.7rem, 2.6vw + 0.8rem, 2.7rem); margin-bottom: 1.1rem; }
+p { margin: 0 0 1.1rem; max-width: var(--measure); text-wrap: pretty; }
+
+/* Hero: the deep brand colour anchors the page */
+.hero { background: var(--deep); color: var(--on-deep); padding: calc(var(--pad) + 1rem) 0 var(--pad); }
+.hero-inner { text-align: left; }
+.hero .brand-mark {
+  display: inline-block; margin: 0 0 1.6rem; padding: .35rem .8rem; border-radius: 999px;
+  background: color-mix(in srgb, var(--hero-accent) 22%, transparent); color: var(--hero-accent);
+  border: 1px solid color-mix(in srgb, var(--hero-accent) 45%, transparent); font-weight: 600; font-size: .9rem; letter-spacing: .01em;
+}
+.hero h1 { max-width: 18ch;  }
+.hero .lead { font-size: clamp(1.1rem, .5vw + 1rem, 1.35rem); margin: 1.4rem 0 2rem; opacity: .92; max-width: 52ch;  }
+.btn {
+  display: inline-block; padding: .85rem 1.7rem; border-radius: var(--radius); font-weight: 700; text-decoration: none;
+  background: var(--primary); color: var(--on-primary); border: 2px solid var(--primary);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.hero .btn { background: var(--hero-accent); color: var(--on-hero-accent); border-color: var(--hero-accent); }
+.btn:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgba(0,0,0,.22); }
+.btn:focus-visible, a:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+.hero-points {
+  list-style: none; margin: 2.6rem 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: .6rem;
+  
+}
+.hero-points li {
+  padding: .4rem .9rem; border-radius: 999px; font-size: .92rem;
+  border: 1px solid color-mix(in srgb, var(--on-deep) 28%, transparent);
+}
+
+/* Content sections alternate paper tones so the scroll has rhythm */
+.block { padding: var(--pad) 0; }
+.block.alt { background: var(--paper-2); }
+.block h2 { color: var(--ink); position: relative; padding-top: 1.1rem; }
+.block h2::before {
+  content: ""; position: absolute; top: 0; left: 0; width: 3.2rem; height: 4px; border-radius: 4px; background: var(--primary);
+}
+.checks { list-style: none; margin: 1.8rem 0 0; padding: 0; display: grid; gap: .8rem; max-width: 46rem; }
+.checks li {
+  position: relative; padding: .9rem 1rem .9rem 3rem; background: #fff; border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+.checks li::before {
+  content: ""; position: absolute; left: 1rem; top: 1.12rem; width: 1.15rem; height: 1.15rem; border-radius: 50%;
+  background: var(--primary);
+}
+.checks li::after {
+  content: ""; position: absolute; left: 1.42rem; top: 1.34rem; width: .34rem; height: .62rem;
+  border: solid var(--on-primary); border-width: 0 2px 2px 0; transform: rotate(45deg) translate(-1px, -1px);
+}
+.foot { padding: 2.2rem 0; border-top: 1px solid var(--border); color: var(--muted); font-size: .92rem; }
+.foot .wrap { display: flex; justify-content: space-between; flex-wrap: wrap; gap: .6rem; }
+
+@media (max-width: 640px) {
+  :root { --pad: 3.2rem; }
+  .hero h1 { max-width: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .btn { transition: none; }
+  .btn:hover { transform: none; }
+}
+</style>
+</head>
+<body>
+
+  <header class="hero" id="top">
+    <div class="wrap hero-inner">
+      <p class="brand-mark">Shri Tech Partners</p>
+      <h1>AI research and products that put safety at the frontier</h1>
+      <p class="lead">AI will have a vast impact on the world. Anthropic is a public benefit corporation dedicated to securing its benefits and mitigating its risks.</p>
+      <a class="btn" href="#s1">Get started</a>
+      
+    </div>
+  </header>
+  <section class="block" id="s1">
+    <div class="wrap">
+      <h2>What 81,000 people want from AI</h2>
+      <p>The largest study ever done on AI and how it&#x27;s shaping lives around the world.</p>
+      
+    </div>
+  </section>
+  <section class="block alt" id="s2">
+    <div class="wrap">
+      <h2>Latest releases</h2>
+      <p>We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.</p>
+      <ul class="checks"><li>Expanding Project Glasswing</li><li>DateJune 2, 2026</li><li>CategoryAnnouncements</li><li>Claude Opus 4.8</li><li>An upgrade to Opus across coding, agentic tasks, and professional work, with the consistency to handle long-running work.</li><li>DateMay 28, 2026</li></ul>
+    </div>
+  </section>
+  <section class="block" id="s3">
+    <div class="wrap">
+      <h2>At Anthropic, we build AI to serve humanity’s long-term well-being.</h2>
+      
+      <ul class="checks"><li>Core views on AI safetyAnnouncements</li><li>Anthropic’s Responsible Scaling PolicyAlignment Science</li><li>Anthropic Academy: Build and Learn with ClaudeEducation</li><li>Anthropic’s Economic IndexEconomic Research</li><li>Claude’s ConstitutionAnnouncements</li><li>Core views on AI safety</li></ul>
+    </div>
+  </section>
+  <footer class="foot"><div class="wrap"><span>Shri Tech Partners</span><span>Rendered from brand.json + content.json</span></div></footer>
+</body>
+</html>
