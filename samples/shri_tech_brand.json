@@ -1,0 +1,369 @@
+{
+  "source_url": "https://www.shritechpartners.com/",
+  "page_title": "Shri Tech Partners | AI & Tech Solutions",
+  "logo_url": null,
+  "colors": {
+    "text_colors": [
+      {
+        "value": "#fff",
+        "count": 5
+      },
+      {
+        "value": "rgb(0 174 239/1)",
+        "count": 3
+      },
+      {
+        "value": "#9ca3af",
+        "count": 2
+      },
+      {
+        "value": "rgb(27 58 92/1)",
+        "count": 2
+      },
+      {
+        "value": "rgb(255 255 255/1)",
+        "count": 2
+      },
+      {
+        "value": "hsla(0,0%,100%,.7)",
+        "count": 2
+      },
+      {
+        "value": "rgba(0,174,239,.3)",
+        "count": 1
+      },
+      {
+        "value": "rgba(0,174,239,.7)",
+        "count": 1
+      }
+    ],
+    "background_colors": [
+      {
+        "value": "#1b3a5c",
+        "count": 5
+      },
+      {
+        "value": "rgb(0 174 239/1)",
+        "count": 2
+      },
+      {
+        "value": "rgba(0,174,239,.1)",
+        "count": 2
+      },
+      {
+        "value": "rgba(0,174,239,.2)",
+        "count": 2
+      },
+      {
+        "value": "rgba(0,174,239,.03)",
+        "count": 2
+      },
+      {
+        "value": "rgba(0,174,239,.05)",
+        "count": 2
+      },
+      {
+        "value": "hsla(0,0%,100%,.05)",
+        "count": 2
+      },
+      {
+        "value": "rgba(0,174,239,.008)",
+        "count": 2
+      }
+    ],
+    "primary_color_guess": "#fff",
+    "primary_background_guess": "#1b3a5c"
+  },
+  "typography": {
+    "font_families": [
+      {
+        "value": "__geistMono_c3aa02",
+        "count": 6
+      },
+      {
+        "value": "inherit",
+        "count": 5
+      },
+      {
+        "value": "__geistSans_1e4310",
+        "count": 3
+      },
+      {
+        "value": "Arial",
+        "count": 1
+      }
+    ],
+    "font_sizes": [
+      {
+        "value": "100%",
+        "count": 5
+      },
+      {
+        "value": "1em",
+        "count": 4
+      },
+      {
+        "value": "75%",
+        "count": 2
+      },
+      {
+        "value": "80%",
+        "count": 1
+      },
+      {
+        "value": "1.5rem",
+        "count": 1
+      },
+      {
+        "value": "1.875rem",
+        "count": 1
+      },
+      {
+        "value": "2.25rem",
+        "count": 1
+      },
+      {
+        "value": "3rem",
+        "count": 1
+      }
+    ],
+    "font_weights": [
+      {
+        "value": "bolder",
+        "count": 2
+      },
+      {
+        "value": "700",
+        "count": 1
+      },
+      {
+        "value": "300",
+        "count": 1
+      },
+      {
+        "value": "500",
+        "count": 1
+      },
+      {
+        "value": "600",
+        "count": 1
+      }
+    ]
+  },
+  "spacing": {
+    "padding": {
+      "padding": [
+        {
+          "value": "0",
+          "count": 12
+        },
+        {
+          "value": ".5rem",
+          "count": 1
+        },
+        {
+          "value": "1.25rem",
+          "count": 1
+        }
+      ],
+      "padding-left": [
+        {
+          "value": "2rem",
+          "count": 2
+        },
+        {
+          "value": ".625rem",
+          "count": 1
+        },
+        {
+          "value": ".75rem",
+          "count": 1
+        }
+      ],
+      "padding-right": [
+        {
+          "value": ".625rem",
+          "count": 1
+        },
+        {
+          "value": ".75rem",
+          "count": 1
+        },
+        {
+          "value": "1rem",
+          "count": 1
+        }
+      ],
+      "padding-top": [
+        {
+          "value": "4rem",
+          "count": 2
+        },
+        {
+          "value": ".375rem",
+          "count": 1
+        },
+        {
+          "value": ".5rem",
+          "count": 1
+        }
+      ],
+      "padding-bottom": [
+        {
+          "value": ".375rem",
+          "count": 1
+        },
+        {
+          "value": "4rem",
+          "count": 1
+        },
+        {
+          "value": ".5rem",
+          "count": 1
+        }
+      ]
+    },
+    "margin": {
+      "margin": [
+        {
+          "value": "0",
+          "count": 24
+        }
+      ],
+      "margin-left": [
+        {
+          "value": "-.25rem",
+          "count": 1
+        },
+        {
+          "value": ".75rem",
+          "count": 1
+        },
+        {
+          "value": "auto",
+          "count": 1
+        }
+      ],
+      "margin-right": [
+        {
+          "value": "-.25rem",
+          "count": 1
+        },
+        {
+          "value": ".75rem",
+          "count": 1
+        },
+        {
+          "value": "auto",
+          "count": 1
+        }
+      ],
+      "margin-top": [
+        {
+          "value": ".5rem",
+          "count": 2
+        },
+        {
+          "value": ".25rem",
+          "count": 1
+        },
+        {
+          "value": ".375rem",
+          "count": 1
+        }
+      ],
+      "margin-bottom": [
+        {
+          "value": ".5rem",
+          "count": 2
+        },
+        {
+          "value": ".25rem",
+          "count": 1
+        },
+        {
+          "value": "2.5rem",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "borders": {
+    "border": [
+      {
+        "value": "0 solid #e5e7eb",
+        "count": 3
+      },
+      {
+        "value": "1px solid rgba(0,174,239,.1)",
+        "count": 1
+      }
+    ],
+    "border-color": [
+      {
+        "value": "rgba(0,174,239,.3)",
+        "count": 3
+      },
+      {
+        "value": "rgba(0,174,239,.4)",
+        "count": 2
+      },
+      {
+        "value": "inherit",
+        "count": 1
+      }
+    ],
+    "border-radius": [
+      {
+        "value": "1rem",
+        "count": 1
+      },
+      {
+        "value": "9999px",
+        "count": 1
+      },
+      {
+        "value": ".5rem",
+        "count": 1
+      }
+    ],
+    "border-width": [
+      {
+        "value": "1px",
+        "count": 1
+      }
+    ]
+  },
+  "text_samples": {
+    "h1": [
+      "Making the WorldAI Ready"
+    ],
+    "h2": [
+      "Technology is Moving Fast.We Make Sure You Move With It.",
+      "Our Services",
+      "Tools & Insights",
+      "Let\u2019s Talk"
+    ],
+    "h3": [
+      "AI Didn\u2019t Just Arrive.It Accelerated.",
+      "AI Training",
+      "AI Consulting",
+      "Digital Transformation",
+      "Tech Strategy"
+    ],
+    "p": [
+      "Customised AI training programmes for universities, schools, professionals, and organisations \u2014 building real skills for a world that\u2019s already changed.",
+      "Shri Tech Partners is an AI training and consulting firm headquartered in Dubai, with global operations. We train students, upskill professionals, and prepare organisations for a world where AI fluency is no longer optional.",
+      "The world changed. The pace isn\u2019t slowing down.Are you ready?",
+      "Training-led AI and technology solutions for institutions and organisations.",
+      "Customised, hands-on programmes for students, professionals, and teams. From classrooms to boardrooms \u2014 we make people AI Ready."
+    ]
+  },
+  "meta": {
+    "num_css_rules_parsed": 430,
+    "num_inline_styles_parsed": 45,
+    "stylesheets_found": 1,
+    "stylesheets_fetched": 1,
+    "css_variables_found": 62
+  }
+}

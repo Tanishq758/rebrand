@@ -1,0 +1,6 @@
+{
+  "brand_name": "Northwind Coffee",
+  "colors": { "primary": "#7a3e1d" },
+  "typography": { "heading_font": "Lora", "body_font": "Inter" },
+  "tone": "warm"
+}
